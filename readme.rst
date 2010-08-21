@@ -35,5 +35,5 @@ To use this package (at your own risk), do the following:
 
 Screenshot of highlighting:
 
-.. image:: screenshot.png
+.. image:: http://github.com/tobyS/qalisting/raw/master/screenshot.png
    :alt:   Screenshot of qalisting highlighted lines.
